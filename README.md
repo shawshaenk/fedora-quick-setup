@@ -1,2 +1,2 @@
 # fedora-quick-setup
-A bash script to configure Fedora Linux post-install.
+A bash script to quickly configure Fedora Linux post-installation.
